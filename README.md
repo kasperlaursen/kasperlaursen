@@ -28,6 +28,23 @@ I specialize in frontend application development using modern javascript framewo
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
 </p>
+
+### Where to find me 🕵️‍♂️
+<p>
+  <a href="https://github.com/kasperlaursen" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://twitter.com/habberlabber" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/habber/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://laursen.dev" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/My_Website-F6C915.svg?&style=for-the-badge&" />
+  </a>
+</p>
+
 <!-- 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
